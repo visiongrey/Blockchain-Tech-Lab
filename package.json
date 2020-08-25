@@ -1,0 +1,18 @@
+{
+    "name": "dev",
+    "version": "1.0.0",
+    "description": "lab practical 1.2",
+    "main": "api.js",
+    "scripts": {
+        "start": "nodemon ."
+    },
+    "keywords": [],
+    "author": "dsp9107",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "crypto": "^1.0.1",
+        "express": "^4.17.1",
+        "morgan": "^1.10.0"
+    }
+}
